@@ -1,0 +1,11 @@
+ yard←{
+ wealth ← ⍵
+ size←⍴wealth
+ npairs←size÷2
+ pairs←(2,npairs)⍴size?size
+ stakes←⌊⌿wealth[pairs]
+ outcomes←¯1 1[?npairs⍴2]
+ changes←0.5×1 ¯1∘.×outcomes×stakes
+ wealth[pairs]←wealth[pairs]+changes
+ wealth
+ }
