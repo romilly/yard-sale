@@ -1,8 +1,8 @@
 Z←UNIT DRV X; ⎕CT; ⎕IO; E; N
-⎕CT←⎕IO←O
+⎕CT←⎕IO←0
 X←X÷UNIT
 E←1|X
-N÷(⌊O.5*+÷/X)-+/⌊X
+N ← (⌊0.5++/X)-+/⌊X
 A←⍋⍋-E
-Z+(⌊X)+A<N
+Z←(⌊X)+A<N
 Z←UNIT×Z

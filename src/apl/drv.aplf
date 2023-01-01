@@ -1,0 +1,11 @@
+ drv←{
+    ⍝ unit drv values
+    ⍺←1
+    ⎕CT←⎕IO←0
+    x←⍵÷⍺
+    e←1|x
+    n←(⌊0.5++/x)-+/⌊x
+    a←⍋⍋-e
+    z←(⌊x)+a<n
+    ⍺×z
+ }
