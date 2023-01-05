@@ -1,4 +1,5 @@
- yard←{
+ simulate_round ← {
+ ⎕io ← 0
  wealth ← ⍵
  size←⍴wealth
  npairs←size÷2
