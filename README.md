@@ -6,7 +6,7 @@ Pareto modelled the wealth of individuals in a stable economy using the distribu
 	  
 The paper [Distributions of money in model markets of the economy](https://arxiv.org/abs/cond-mat/0205221) introduced a simple economic model (subsequently named the *yard-sale* model) which reproduced this distribution.
   
-[This online article](*https://pudding.cool/2022/12/yard-sale/*) got me started, and
+[This online article](*https://pudding.cool/2022/12/yard-sale/) got me started, and
 [this pdf](*https://b9370b48-a70c-49e9-88aa-0f98cc0a5df4.filesusr.com/ugd/cb3c27_bf9072f3634e43a0ac01921af71370bc.pdf*)
 has more details.
 
