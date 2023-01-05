@@ -11,9 +11,9 @@ The paper [Distributions of money in model markets of the economy](https://arxiv
 has more details.
 
 In the original *yard sale* model, economic agents interact subject to the following rules:
-1. a pair of agents is randomly selected to engage in a transaction. 
-2. agent with wealth $w^0$ enters a transaction with another agent with wealth $w^1$. 
-3. a certain amount of wealth $\Delta w$ will change hands. The value $\Delta w$ is a constant $\alpha$ times the smaller of $w^0$ and $w^1$, and the direction of wealth transfer is determined by the flip of a fair coin.
+1. A pair of agents is randomly selected to engage in a transaction. 
+2. An agent with wealth $w^0$ enters a transaction with another agent with wealth $w^1$. 
+3. A certain amount of wealth $\Delta w$ will change hands. The value $\Delta w$ is a constant $\alpha$ times the smaller of $w^0$ and $w^1$, and the direction of wealth transfer is determined by the flip of a fair coin.
 
 4. the [Dyalog APL](https://www.dyalog.com/) simulation below, the algorithm is sped up by pairing off the entire population and then applying the algorithm above on each pair. This allows the computation to be parallelised.
 
