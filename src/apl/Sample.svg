@@ -1,0 +1,157 @@
+<svg version="1.1" baseProfile="full" width="100%" height="100%" viewBox="0 0 4320 3240"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" >
+ <title>Financial Summary for Current Year</title>
+<desc>Created by Causeway SVG engine - SharpPlot v3.71.0</desc>
+<g stroke-miterlimit="100">
+<desc>Paint the paper =====</desc>
+ <defs>
+  <linearGradient id="GR123" x1="0.1" y1="0.1" x2="0.9" y2="0.9">
+   <stop offset="0" stop-color="#FDF7EC"/>
+   <stop offset="1" stop-color="Wheat"/>
+  </linearGradient>
+ </defs>
+ <g fill="url(#GR123)" >
+  <rect x="0" y="0" width="4320" height="3240" />
+ </g>
+<desc>Border =====</desc>
+<desc>Y-axis labels</desc>
+ <g font-family="Times New Roman" font-size="80" text-anchor="end" >
+  <text x="335" y="2740" >0</text>
+  <text x="335" y="2475" >10</text>
+  <text x="335" y="2210" >20</text>
+  <text x="335" y="1945" >30</text>
+  <text x="335" y="1680" >40</text>
+  <text x="335" y="1415" >50</text>
+  <text x="335" y="1150" >60</text>
+  <text x="335" y="885" >70</text>
+  <text x="335" y="620" >80</text>
+ </g>
+<desc>Y-Captions: text and effects</desc>
+ <g fill="Teal" font-family="Times New Roman" font-size="100" text-anchor="middle" >
+  <text x="400" y="496" >$M</text>
+ </g>
+<desc>Heading, subheading and footnotes =====</desc>
+<desc>Heading</desc>
+ <g fill="Firebrick" font-family="Arial" font-weight="bold" font-size="180" text-anchor="middle" >
+  <text x="2160" y="292" >Financial Summary for Current Year</text>
+ </g>
+<desc>Region =====</desc>
+<desc>for X-axis labels</desc>
+ <g font-family="Times New Roman" font-size="80" text-anchor="middle" >
+  <text x="631" y="2844" >Jan</text>
+  <text x="1094" y="2844" >Feb</text>
+  <text x="1556" y="2844" >Mar</text>
+  <text x="2019" y="2844" >Apr</text>
+  <text x="2481" y="2844" >May</text>
+  <text x="2944" y="2844" >June</text>
+  <text x="3406" y="2844" >July</text>
+  <text x="3869" y="2844" >August</text>
+  <text x="3869" y="2932" >(part)</text>
+ </g>
+<desc>X-Axis Ticks =====</desc>
+<desc>X-Axis tickmarks</desc>
+ <path fill="none" stroke-width="7.2" stroke="Black" d="M631 2720L631 2764M1094 2720L1094 2764M1556 2720L1556 2764M2019 2720L2019 2764M2481 2720L2481 2764M2944 2720L2944 2764M3406 2720L3406 2764M3869 2720L3869 2764"/>
+<desc>Y-Axis Ticks =====</desc>
+<desc>Y-Axis tickmarks</desc>
+ <path fill="none" stroke-width="7.2" stroke="Black" d="M400 2720L367 2720M400 2455L367 2455M400 2190L367 2190M400 1925L367 1925M400 1660L367 1660M400 1395L367 1395M400 1130L367 1130M400 865L367 865M400 600L367 600"/>
+<desc>Start of Barchart ===========</desc>
+ <defs>
+  <linearGradient id="GR124" x1="0.1" y1="0.1" x2="0.9" y2="0.9">
+   <stop offset="0" stop-color="#BFBFDF"/>
+   <stop offset="1" stop-color="Navy"/>
+  </linearGradient>
+ </defs>
+ <g stroke-width="4" stroke="Black" fill="url(#GR124)" >
+  <rect x="488" y="2561" width="286" height="159" />
+  <rect x="951" y="2243" width="286" height="477" />
+  <rect x="1413" y="2005" width="286" height="716" />
+  <rect x="1876" y="1899" width="286" height="822" />
+  <rect x="2338" y="1236" width="286" height="1484" />
+  <rect x="2801" y="812" width="286" height="1908" />
+  <rect x="3263" y="1528" width="286" height="1193" />
+  <rect x="3726" y="2402" width="286" height="318" />
+ </g>
+<desc>Y Datum line(s) ....</desc>
+ <path fill="none" stroke-width="3" stroke="Navy" stroke-linejoin="round" stroke-dasharray="6 9 6 9 72 9" d="M400 1660L4100 1660"/>
+<desc>Axes =====</desc>
+ <path fill="none" stroke-width="12" stroke="Black" d="M400 2764L400 556M356 2720L4144 2720"/>
+<desc>Start of Line Chart ===========</desc>
+<desc>Points follow ...</desc>
+<desc>Curves</desc>
+ <g stroke-width="8" stroke="DodgerBlue" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="24 32" fill="none" >
+  <path d="M3869 2376C3869 2376 3510 1676 3406 1475 3303 1273 3139 688 2944 574 2800 489 2579 1022 2481 1157 2372 1307 2152 1716 2019 1846 1945 1918 1655 1842 1556 1872 1445 1905 1190 2046 1094 2111 984 2184 631 2482 631 2482" />
+ </g>
+<desc>Risers</desc>
+ <path fill="none" stroke-width="8" stroke="DodgerBlue" d="M631 2482L631 2720M1094 2111L1094 2720M1556 1872L1556 2720M2019 1846L2019 2720M2481 1157L2481 2720M2944 574L2944 2720M3406 1475L3406 2720M3869 2376L3869 2720"/>
+<desc>Markers</desc>
+ <g stroke-width="0" fill="DodgerBlue" >
+  <polygon points="656 2482 631 2457 606 2482 631 2507 656 2482" />
+  <polygon points="1119 2111 1094 2086 1069 2111 1094 2136 1119 2111" />
+  <polygon points="1581 1872 1556 1847 1531 1872 1556 1897 1581 1872" />
+  <polygon points="2044 1846 2019 1821 1994 1846 2019 1871 2044 1846" />
+  <polygon points="2506 1157 2481 1132 2456 1157 2481 1182 2506 1157" />
+  <polygon points="2969 574 2944 549 2919 574 2944 599 2969 574" />
+  <polygon points="3431 1475 3406 1450 3381 1475 3406 1500 3431 1475" />
+  <polygon points="3894 2376 3869 2351 3844 2376 3869 2401 3894 2376" />
+ </g>
+ <g stroke-width="4" stroke="Black" fill="Goldenrod" >
+  <rect x="1748" y="2094" width="716" height="336" rx="40"/>
+ </g>
+ <g fill="White" font-family="Arial" font-size="80" >
+  <text x="1788" y="2190" >Note: April figures</text>
+  <text x="1788" y="2286" >were affected by</text>
+  <text x="1788" y="2382" >warehouse fire</text>
+ </g>
+<desc>Start of Piechart ===========</desc>
+ <defs>
+  <linearGradient id="GR125" x1="0.1" y1="0.1" x2="0.9" y2="0.9">
+   <stop offset="0" stop-color="#ECC8C8"/>
+   <stop offset="1" stop-color="Firebrick"/>
+  </linearGradient>
+ </defs>
+ <path d="M1188.6 1124.9A371 371 0 0 0 1754.1 930.7A371 371 0 0 0 1400 449L1400 820z" stroke-width="12" stroke="White" fill="url(#GR125)" />
+ <defs>
+  <linearGradient id="GR126" x1="0.1" y1="0.1" x2="0.9" y2="0.9">
+   <stop offset="0" stop-color="#ECC8C8"/>
+   <stop offset="1" stop-color="Firebrick"/>
+  </linearGradient>
+ </defs>
+ <path d="M1400 449A371 371 0 0 0 1045.9 709.3A371 371 0 0 0 1188.6 1124.9L1400 820z" stroke-width="12" stroke="White" fill="url(#GR126)" />
+ <path fill="none" stroke-width="7.2" stroke="Navy" d="M1719 920L1807 947M1081 720L993 693"/>
+ <g fill="Navy" font-family="Arial" font-weight="bold" font-size="130" >
+  <text x="1856" y="1012" >Home</text>
+ </g>
+ <g fill="Navy" font-family="Arial" font-weight="bold" font-size="130" text-anchor="end" >
+  <text x="944" y="693" >Export</text>
+ </g>
+<desc>Key boxed area</desc>
+ <g stroke-width="6" stroke="Black" fill="White" >
+  <rect x="400" y="3020" width="1490" height="153" rx="45"/>
+ </g>
+<desc>Key =====</desc>
+<desc>Block key</desc>
+ <defs>
+  <linearGradient id="GR127" x1="0.1" y1="0.1" x2="0.9" y2="0.9">
+   <stop offset="0" stop-color="#BFBFDF"/>
+   <stop offset="1" stop-color="Navy"/>
+  </linearGradient>
+ </defs>
+ <g stroke-width="4" stroke="Black" fill="url(#GR127)" >
+  <rect x="490" y="3065" width="153" height="63" />
+ </g>
+<desc>Key - Line</desc>
+ <g stroke-width="8" stroke="DodgerBlue" stroke-linecap="round" stroke-dasharray="24 32" fill="none" >
+  <path d="M1237 3101L1084 3101" />
+ </g>
+<desc>Key - Marker</desc>
+ <g stroke-width="0" fill="DodgerBlue" >
+  <polygon points="1185 3101 1160 3076 1135 3101 1160 3126 1185 3101" />
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="688" y="3128" >Revenue</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="1282" y="3128" >Invoiced Sales</text>
+ </g>
+<desc>Reset to original origin</desc>
+</g>
+</svg>
